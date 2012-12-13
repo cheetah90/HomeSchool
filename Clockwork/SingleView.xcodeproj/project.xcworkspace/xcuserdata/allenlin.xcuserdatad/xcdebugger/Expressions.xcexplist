@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[SingleViewViewController touchesBegan:withEvent:]:SingleViewViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "gear1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SingleViewViewController touchesEnded:withEvent:]:SingleViewViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SingleViewViewController spinLayer:duration:direction:byDegree:]:SingleViewViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "M_PI">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
